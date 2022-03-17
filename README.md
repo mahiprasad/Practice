@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # University Portal
 <br>
 <br>
